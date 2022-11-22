@@ -16,7 +16,7 @@ second_word_bank = [
   'SOUR',
   'BLEND',
   'PLANE',
-  'PLANTAIN',
+  # 'PLANTAIN',
 ]
 
 third_word_bank = [
@@ -26,7 +26,7 @@ third_word_bank = [
   'ROCKY',
   'MOON',
   'TREETOP',
-  'RASPBERRY',
+  # 'RASPBERRY',
 ]
 
 fourth_word_bank = [
@@ -36,7 +36,7 @@ fourth_word_bank = [
   'NUKE',
   'SHOWER',
   'BUGS',
-  'BEAN',
+  # 'BEAN',
 ]
 
 # FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION

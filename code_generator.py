@@ -58,3 +58,4 @@ random.shuffle(code_options)
 # PRINT EACH OPTION LINE BY LINE
 for code in code_options:
   print(code)
+

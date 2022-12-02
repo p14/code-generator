@@ -55,6 +55,6 @@ def get_code_options():
 code_options = get_code_options()
 random.shuffle(code_options)
 
-# PRINT EACH OPTION LINE BY LINE
+# PRINT EACH CODE OPTION LINE BY LINE
 for code in code_options:
   print(code)

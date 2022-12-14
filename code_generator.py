@@ -8,7 +8,7 @@ first_word_bank = [
   'BONFIRE',
   'JAW',
   'MOTHER',
-  # 'FIELD',
+  'FIELD', # 2.0
 ]
 
 second_word_bank = [
@@ -17,8 +17,8 @@ second_word_bank = [
   'SOUR',
   'BLEND',
   'PLANE',
-  # 'PLANTAIN',
-  # 'NUKE',
+  'PLANTAIN', # 2.0
+  'NUKE', # 2.0
 ]
 
 third_word_bank = [
@@ -28,7 +28,7 @@ third_word_bank = [
   'ROCKY',
   'MOON',
   'TREETOP',
-  # 'RASPBERRY',
+  'RASPBERRY', # 2.0
 ]
 
 fourth_word_bank = [
@@ -38,8 +38,8 @@ fourth_word_bank = [
   'NUKE',
   'SHOWER',
   'BUGS',
-  # 'BEAN',
-  # 'PEEK',
+  'BEAN', # 2.0
+  'PEEK', # 2.0
 ]
 
 # FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION

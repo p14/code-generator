@@ -12,3 +12,8 @@ This is a proof of concept and can be used as a script you injected into a codeb
 - Download / clone this repository onto your system
 - Make sure Node.js is downloaded on your system. If you don't have it downloaded yet, download it [here](https://nodejs.org/en/download/)
 - Open terminal, navigate to the file, and type ```node code_generator.js```
+
+## How to run (Ruby)
+- Download / clone this repository onto your system
+- Make sure Ruby is downloaded on your system. If you don't have it downloaded yet, download it [here](https://www.ruby-lang.org/en/downloads/)
+- Open terminal, navigate to the file, and type ```ruby code_generator.rb```

@@ -7,6 +7,7 @@ def get_code_options
     'JAW',
     'MOTHER',
     # 'FIELD',
+    # 'PEEP',
   ]
 
   second_word_bank = [
@@ -17,6 +18,7 @@ def get_code_options
     'PLANE',
     # 'PLANTAIN',
     # 'NUKE',
+    # 'PEANUT',
   ]
 
   third_word_bank = [
@@ -27,6 +29,7 @@ def get_code_options
     'MOON',
     'TREETOP',
     # 'RASPBERRY',
+    # 'EXIT',
   ]
 
   fourth_word_bank = [
@@ -38,6 +41,7 @@ def get_code_options
     'BUGS',
     # 'BEAN',
     # 'PEEK',
+    # 'COCONUT',
   ]
 
   options = []

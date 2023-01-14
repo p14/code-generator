@@ -7,6 +7,7 @@ const firstWordBank = [
   'JAW',
   'MOTHER',
   // 'FIELD',
+  // 'PEEP',
 ];
 
 const secondWordBank = [
@@ -17,6 +18,7 @@ const secondWordBank = [
   'PLANE',
   // 'PLANTAIN',
   // 'NUKE',
+  // 'PEANUT',
 ];
 
 const thirdWordBank = [
@@ -27,6 +29,7 @@ const thirdWordBank = [
   'MOON',
   'TREETOP',
   // 'RASPBERRY',
+  // 'EXIT',
 ];
 
 const fourthWordBank = [
@@ -38,6 +41,7 @@ const fourthWordBank = [
   'BUGS',
   // 'BEAN',
   // 'PEEK',
+  // 'COCONUT',
 ];
 
 // FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION

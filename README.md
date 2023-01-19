@@ -1,7 +1,7 @@
 # Code Generator
 This script allows a user to input words into 4 different word banks. The word banks are then permeated to produce every combination of words while maintaining the order. This list of combinations is printed (line-by-line).
 
-This is a proof of concept and can be used as a script you injected into a codebase as a tool.
+This is a proof of concept and can be used as a script or injected into a codebase as a tool.
 
 ## How to run (Python)
 - Download / clone this repository onto your system

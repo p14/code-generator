@@ -14,8 +14,6 @@ var firstWordBank = []string{
 	"BONFIRE",
 	"JAW",
 	"MOTHER",
-	// "FIELD",
-	// "PEEP",
 }
 
 var secondWordBank = []string{
@@ -24,9 +22,6 @@ var secondWordBank = []string{
 	"SOUR",
 	"BLEND",
 	"PLANE",
-	// "PLANTAIN",
-	// "NUKE",
-	// "PEANUT",
 }
 
 var thirdWordBank = []string{
@@ -36,8 +31,6 @@ var thirdWordBank = []string{
 	"ROCKY",
 	"MOON",
 	"TREETOP",
-	// "RASPBERRY",
-	// "EXIT",
 }
 
 var fourthWordBank = []string{
@@ -47,9 +40,6 @@ var fourthWordBank = []string{
 	"NUKE",
 	"SHOWER",
 	"BUGS",
-	// "BEAN",
-	// "PEEK",
-	// "COCONUT",
 }
 
 // FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION

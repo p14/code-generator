@@ -6,8 +6,6 @@ def get_code_options
     'BONFIRE',
     'JAW',
     'MOTHER',
-    # 'FIELD',
-    # 'PEEP',
   ]
 
   second_word_bank = [
@@ -16,9 +14,6 @@ def get_code_options
     'SOUR',
     'BLEND',
     'PLANE',
-    # 'PLANTAIN',
-    # 'NUKE',
-    # 'PEANUT',
   ]
 
   third_word_bank = [
@@ -28,8 +23,6 @@ def get_code_options
     'ROCKY',
     'MOON',
     'TREETOP',
-    # 'RASPBERRY',
-    # 'EXIT',
   ]
 
   fourth_word_bank = [
@@ -39,9 +32,6 @@ def get_code_options
     'NUKE',
     'SHOWER',
     'BUGS',
-    # 'BEAN',
-    # 'PEEK',
-    # 'COCONUT',
   ]
 
   options = []

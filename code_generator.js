@@ -1,4 +1,4 @@
-// WORD BANKS FOR CODE COMBINATIONS
+// Word banks for code combinations
 const firstWordBank = [
   'PEANUT',
   'EXIT',
@@ -34,7 +34,7 @@ const fourthWordBank = [
   'BUGS',
 ];
 
-// FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION
+// Function to permeate every possible combination
 function getCodeOptions() {
   const options = [];
 
@@ -51,11 +51,11 @@ function getCodeOptions() {
   return options;
 };
 
-// GET OPTIONS AND SHUFFLE LIST
+// Get options and shuffle the list
 const codeOptions = getCodeOptions();
 const shuffledOptions = codeOptions.sort(() => Math.random() - 0.5);
 
-// LOG EACH CODE OPTION LINE BY LINE
+// Log each code option line-by-line
 shuffledOptions.forEach((code) => {
   console.log(code);
 });

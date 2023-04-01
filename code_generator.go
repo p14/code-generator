@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-// WORD BANKS FOR CODE COMBINATIONS
+// Word banks for code combinations
 var firstWordBank = []string{
 	"PEANUT",
 	"EXIT",
@@ -42,7 +42,7 @@ var fourthWordBank = []string{
 	"BUGS",
 }
 
-// FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION
+// Function to permeate every possible combination
 func getCodeOptions() []string {
 	var options []string
 
@@ -60,7 +60,7 @@ func getCodeOptions() []string {
 }
 
 func main() {
-	// GET OPTIONS AND SHUFFLE LIST
+	// Get options and shuffle list
 	codeOptions := getCodeOptions()
 
 	rand.Seed(
@@ -72,7 +72,7 @@ func main() {
 		func(i, j int) { codeOptions[i], codeOptions[j] = codeOptions[j], codeOptions[i] },
 	)
 
-	// LOG EACH CODE OPTION LINE BY LINE
+	// Log each code option line-by-line
 	for _, code := range codeOptions {
 		fmt.Println(code)
 	}

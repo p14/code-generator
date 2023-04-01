@@ -1,6 +1,6 @@
 import random
 
-# WORD BANKS FOR CODE COMBINATIONS
+# Word banks for code combinations
 first_word_bank = [
   'PEANUT',
   'EXIT',
@@ -36,7 +36,7 @@ fourth_word_bank = [
   'BUGS',
 ]
 
-# FUNCTION TO PERMEATE EVERY POSSIBLE COMBINATION
+# Function to permeate every possible combination
 def get_code_options():
   options = []
 
@@ -48,10 +48,10 @@ def get_code_options():
 
   return options
 
-# GET OPTIONS AND SHUFFLE LIST
+# Get options and shuffle the list
 code_options = get_code_options()
 random.shuffle(code_options)
 
-# PRINT EACH CODE OPTION LINE BY LINE
+# Print each code option line-by-line
 for code in code_options:
   print(code)

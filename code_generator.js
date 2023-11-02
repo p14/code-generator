@@ -13,6 +13,7 @@ const secondWordBank = [
     'SOUR',
     'BLEND',
     'PLANE',
+    'PEANUT',
 ];
 
 const thirdWordBank = [
@@ -31,6 +32,7 @@ const fourthWordBank = [
     'NUKE',
     'SHOWER',
     'BUGS',
+    'PEAK',
 ];
 
 // Function to permeate every possible combination

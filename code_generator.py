@@ -16,6 +16,7 @@ second_word_bank = [
     'SOUR',
     'BLEND',
     'PLANE',
+    'PEANUT',
 ]
 
 third_word_bank = [
@@ -34,6 +35,7 @@ fourth_word_bank = [
     'NUKE',
     'SHOWER',
     'BUGS',
+    'PEAK',
 ]
 
 # Function to permeate every possible combination
